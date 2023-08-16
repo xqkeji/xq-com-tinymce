@@ -1,0 +1,19 @@
+{
+    "name": "xqkeji/xq-com-tinymce",
+    "description": "新齐通用后台管理页面系统的使用的在线编辑器tinymce的js、css等前端程序的composer包。",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "xqkeji\\composer\\tinymce\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "xqkeji.cn"
+        }
+    ],
+    "extra": {
+        
+    }
+}
